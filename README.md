@@ -1,2 +1,2 @@
-# CE-method
-Code to a paper under double blind review. Will be elaborated after author notification.
+# A-novel-Counterfactual-Explanation-method
+Code to a paper on a novel Counterfactual Explanation method, which is now under double blind review. Data and more detailed explanation will be provided after user notification.
